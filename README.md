@@ -1,0 +1,2 @@
+# fruity
+yet another colorscheme
