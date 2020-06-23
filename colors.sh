@@ -1,5 +1,3 @@
-#!/bin/sh
-
 background="#102029"
 foreground="#EDEEF0"
 cursorColor="#EDEEF0"
@@ -27,3 +25,5 @@ color14="#A5D3D9"
 
 color7="#D9DBE3"
 color15="#EDEEF0"
+
+# vim: ft=sh
