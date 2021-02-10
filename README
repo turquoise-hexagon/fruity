@@ -1,3 +1,15 @@
 fruity
-======
-    a colorscheme for backup and sharing purpose
+______
+    a pastel colorscheme for backup & sharing purposes
+
+usage
+_____
+    * init.vim
+    call plug#begin('~/.local/share/nvim/plugged')
+        Plug 'turquoise-hexagon/fruity'
+    call plug#end()
+
+depends on
+__________
+    * vim
+    * vim-plug
